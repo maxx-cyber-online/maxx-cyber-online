@@ -11,8 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'am a Full-Stack Developer and Cybersecurity Expert, I operate at the intersection of creation and defense. Currently driving technical strategy at Zenva Technologies Ltd. [my own team], I am dedicated to architecting robust digital solutions that not only push the boundaries of innovation but also ensure a resilient and secure infrastructure for the future.
   </p>
 
   <p>
